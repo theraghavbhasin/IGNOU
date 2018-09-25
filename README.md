@@ -5,4 +5,4 @@ Goto [Developer Insider](https://developerinsider.co/download-turbo-c-for-window
 
 
 ## Courses
-1. BCSL021 - C Programming Language
+1. BCSL021 - [C Programming Language](https://github.com/raghavb95/IGNOU/tree/gh-pages/C%20Programming%20Lab)
