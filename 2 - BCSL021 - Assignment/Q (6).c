@@ -1,0 +1,1 @@
+Calculate the string length of a given string, using pointers.
